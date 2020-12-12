@@ -61,7 +61,6 @@ int main(int argc, char *argv[]) //argc - argument counter, argv - argument vari
 	//		std::cout << "Yes\n";
 	//}
 
-	//Задание 1. Напишите программу, возвращающую размер файла указанного в командной строке.
 	// 1. Return size of the file that is a command line argument
 	//char filename[30];
 	//char word[30];
